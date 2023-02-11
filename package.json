@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/torresluizg/node-project/issues"
   },
-  "homepage": "https://github.com/torresluizg/node-project#readme"
+  "homepage": "https://github.com/torresluizg/node-project#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.6.0"
+  }
 }
